@@ -7,7 +7,7 @@ Collaborators
 
 - Tong Qiu ([tq7bw@virginia.edu](mailto:tq7bw@virginia.edu))
 - Charlie Wu ([jw7jb@virginia.edu](mailto:jw7jb@virginia.edu))
-- Jerry Sum ([ys7va@virginia.edu](mailto:ys7va@virginia.edu))
+- Jerry Sun ([ys7va@virginia.edu](mailto:ys7va@virginia.edu))
 
 Overview
 -----
