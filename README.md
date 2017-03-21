@@ -13,3 +13,8 @@ Overview
 -----
 
 The proposal for the project can be found at [here](proposal.md).
+
+Timeline
+-----
+
+- March 21st: project repo init.
