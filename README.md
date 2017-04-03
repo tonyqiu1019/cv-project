@@ -18,3 +18,4 @@ Timeline
 -----
 
 - March 21st: project repo init.
+- April 2nd: project proposal finalized.
